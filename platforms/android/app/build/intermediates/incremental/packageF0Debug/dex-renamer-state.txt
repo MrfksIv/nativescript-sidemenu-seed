@@ -1,0 +1,4 @@
+#Mon Feb 19 18:53:55 EET 2018
+base.0=C\:\\Users\\mrfksiv\\Documents\\Projects\\example-project\\test\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\mrfksiv\\Documents\\Projects\\example-project\\test\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\F0\\debug\\folders\\1000\\1f\\main\\classes.dex

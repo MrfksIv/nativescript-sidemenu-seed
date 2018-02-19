@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\mrfksiv\\Documents\\Projects\\example-project\\test\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\menu\\edit_details.xml",
+        "source": "C:\\Users\\mrfksiv\\.android\\build-cache\\49f7e034eaa8dd9b688f71aeddb3d4300a6e9242\\output\\res\\menu\\edit_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrfksiv\\Documents\\Projects\\example-project\\test\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\menu\\view_feedback_items_activity_menu.xml",
+        "source": "C:\\Users\\mrfksiv\\.android\\build-cache\\49f7e034eaa8dd9b688f71aeddb3d4300a6e9242\\output\\res\\menu\\view_feedback_items_activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mrfksiv\\Documents\\Projects\\example-project\\test\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\menu\\send_feedback_activity_menu.xml",
+        "source": "C:\\Users\\mrfksiv\\.android\\build-cache\\49f7e034eaa8dd9b688f71aeddb3d4300a6e9242\\output\\res\\menu\\send_feedback_activity_menu.xml"
+    }
+]

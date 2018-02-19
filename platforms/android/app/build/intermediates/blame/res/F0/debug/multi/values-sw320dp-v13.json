@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\mrfksiv\\Documents\\Projects\\example-project\\test\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeF0DebugResources\\merged.dir\\values-sw320dp-v13\\values-sw320dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "C:\\Users\\mrfksiv\\.android\\build-cache\\286616ac68da6325f214a0a0e285a96fadc98032\\output\\res\\values-sw320dp-v13\\values-sw320dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]
